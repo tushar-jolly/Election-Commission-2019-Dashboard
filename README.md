@@ -28,6 +28,6 @@ Comparative Analysis: Compare election data across different regions, constituen
 
 Export and Share: Export reports and share insights with stakeholders for collaboration and decision-making.
 
-## Contrinutors
+## Contributors
 
 Tushar-Jolly
