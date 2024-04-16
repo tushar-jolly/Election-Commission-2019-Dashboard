@@ -7,8 +7,9 @@ Election Commission Dashboard 2019
 Our Power BI dashboard offers a comprehensive analysis of the 2019 Election Commission data, providing valuable insights into the electoral process. With interactive visualizations and dynamic filters, users can explore key metrics such as voter turnout, demographic breakdowns, candidate performance, and more. The dashboard utilizes data visualization techniques to present complex information in a clear and accessible manner, empowering stakeholders to make informed decisions and gain a deeper understanding of the electoral landscape.
 
 ## Dashboard
+![Screenshot (397)](https://github.com/tushar-jolly/Election-Commission-2019-Dashboard/assets/167069552/1e0a4bfb-5dbb-4ac6-8c8d-61a35bb0ff0c)
 
-![Screenshot (397)](https://github.com/tushar-jolly/Election-Commission-2019-Dashboard/assets/167069552/92a02381-6476-42bc-a26d-7a07710c3f30)
+
 
 ## Key Features
 
